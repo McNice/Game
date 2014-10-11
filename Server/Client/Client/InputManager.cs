@@ -10,8 +10,8 @@ namespace Client
 {
     public class InputManager
     {
-        MoveY movey;
-        MoveX movex;
+        public MoveY movey;
+        public MoveX movex;
 
         public void Update(GameTime gt)
         {
@@ -20,7 +20,7 @@ namespace Client
             if (Keyboard.GetState().IsKeyDown(Keys.W))
                 movey = MoveY.UP;
             else if (Keyboard.GetState().IsKeyDown(Keys.S))
-                movey = MoveY.UP;
+                movey = MoveY.DOWN;
 
             if (Keyboard.GetState().IsKeyDown(Keys.D))
                 movex = MoveX.RIGHT;

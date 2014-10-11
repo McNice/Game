@@ -36,7 +36,9 @@ namespace Client
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            test = Content.Load<Texture2D>("white1x1");
+            test = new Texture2D(GraphicsDevice, 2, 2);
+            Color[] a = { Color.Black, Color.Black, Color.Black, Color.Black };
+            test.SetData<Color>(a);
 
         }
 
@@ -44,6 +46,7 @@ namespace Client
         {
             CM.ReciveMessage();
             IM.Update(gameTime);
+            CM.SendMovement((byte)IM.movey, (byte)IM.movex);
             Window.Title = "Players: " + CM.PlayerCount();
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
@@ -53,19 +56,19 @@ namespace Client
 
         protected override void Draw(GameTime gameTime)
         {
-           
+            GraphicsDevice.Clear(Color.CornflowerBlue);
 
             spriteBatch.Begin();
 
             foreach (Player p in CM.players)
             {
-                spriteBatch.Draw(test, new Vector2((float)p.x, (float)p.y), Color.Red);
+                spriteBatch.Draw(test,  new Rectangle(CM.players.IndexOf(p) * 100, CM.players.IndexOf(p) * 100,10,10), Color.Red);
             }
 
             spriteBatch.End();
 
 
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            
 
             base.Draw(gameTime);
         }

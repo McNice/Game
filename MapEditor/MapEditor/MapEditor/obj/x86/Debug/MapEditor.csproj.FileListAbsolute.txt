@@ -1,0 +1,10 @@
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Form1.resources
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\t.xnb
+C:\Users\Spellabbet\Documents\GitHub\Game\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\b.xnb

@@ -81,7 +81,9 @@ namespace Client
 
             outmsg.Write((byte)PacketTypes.MOVE);
 
-            outmsg.Write(MoveY, MoveX);
+            outmsg.Write(MoveY);
+
+            outmsg.Write(MoveX);
 
             SendMessage(outmsg);
         }
