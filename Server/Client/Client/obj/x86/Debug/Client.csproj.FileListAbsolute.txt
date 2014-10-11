@@ -1,0 +1,10 @@
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Client.exe
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Client.pdb
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Lidgren.Network.pdb
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Lidgren.Network.xml
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Spellabbet\Documents\GitHub\Game\Server\Client\Client\bin\x86\Debug\Content\white1x1.xnb

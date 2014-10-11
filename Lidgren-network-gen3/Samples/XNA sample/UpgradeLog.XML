@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XnaGameClient">
+</Property><Property Name="Solution File" Value="C:\Users\Spellabbet\Documents\GitHub\Game\Lidgren-network-gen3\Samples\XNA sample\XnaGameClient.sln">
+</Property><Property Name="Date" Value="den 11 oktober 2014">
+</Property><Property Name="Time" Value="11:32">
+</Property></Properties><Event ErrorLevel="0" Project="XnaGameClient" Source="XnaGameClient\XnaGameClient.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="XnaGameClient" Source="XnaGameClient\XnaGameClient.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="XnaGameServer" Source="XnaGameServer\XnaGameServer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="XnaGameServer" Source="XnaGameServer\XnaGameServer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Lidgren.Network" Source="..\..\Lidgren.Network\Lidgren.Network.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Lidgren.Network" Source="..\..\Lidgren.Network\Lidgren.Network.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Content" Source="XnaGameClient\Content\Content.contentproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Content" Source="XnaGameClient\Content\Content.contentproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XnaGameClient.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="XnaGameClient.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
