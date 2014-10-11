@@ -1,0 +1,9 @@
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\Content\bollen.xnb
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\pile of players.exe
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\pile of players.pdb
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\obj\x86\Debug\pile of players.exe
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\obj\x86\Debug\pile of players.pdb
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\Content\Weapon.xnb
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\Content\Bullet.xnb
+c:\users\spellabbet\documents\visual studio 2010\Projects\pile of players\pile of players\bin\x86\Debug\Content\blooood.xnb
